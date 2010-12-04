@@ -2,13 +2,18 @@ deemoowoor's Planet Wars Google AI Challenge bot
 -------------------------------------------------------------------
 
 With this bot I managed to get a #509 place overall and #3 in 
-Estonia. A pity, that lack of enough free time for some 
-concentrated work didn't let me realize all the nice ideas I had.
+Estonia. 
 
-The last version of my bot didn't even beat some of the older ones!
+Note, that the last version of the bot was not the best one. 
+It's a pity, that lack of enough free time for some concentrated 
+work didn't let me realize all the nice ideas I had. The last 
+version of my bot didn't even beat some of the older ones!
 So, there definitely was a lot of room for improvement.
+Last improvements to the bot were very hard to make without 
+a comprehensive unit test suite. Lack of unit tests is something
+I regret about now. :(
 
-But nevertheless, I am hereby releasing my code under the CC-BY-SA
+Nevertheless, I am hereby releasing my code under the CC-BY-SA
 license: http://creativecommons.org/licenses/by-sa/3.0/
 
 The bot is based on the original Python skeleton, which was released
