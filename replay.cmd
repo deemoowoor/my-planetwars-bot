@@ -1,0 +1,1 @@
+python-25 tools\parse_game_state_url.py %1 %2 | python-25 MyBot.py -dl
